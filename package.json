@@ -1,0 +1,39 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "swiggy clone",
+  
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/08anurag/React-Project.git"
+  },
+  "keywords": [
+    "food",
+    "order",
+    "app",
+    "Anurag",
+    "app",
+    "swiggy",
+    "clone",
+    "app"
+  ],
+  "author": "Anurag Chaurasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/08anurag/React-Project/issues"
+  },
+  "homepage": "https://github.com/08anurag/React-Project#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
